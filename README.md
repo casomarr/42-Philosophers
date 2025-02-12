@@ -45,9 +45,9 @@ Simulate the classic "Dining Philosophers" problem using threads and mutexes to 
 	```
 
 4. **Run the program with the required arguments:**
-	```sh
+```sh
  ./philo <number_of_philosophers> <time_to_die> <time_to_eat> <time_to_sleep> [number_of_meals]
- 	```
+```
 Example:
 ```sh
 ./philo 5 800 200 200 7
