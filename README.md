@@ -30,19 +30,19 @@ Simulate the classic "Dining Philosophers" problem using threads and mutexes to 
 ## Installation
 
 1. **Clone the repository to your local machine:**
-	```sh
-	git clone git@github.com:casomarr/42-Philosophers.git
-	```
+```sh
+git clone git@github.com:casomarr/42-Philosophers.git
+```
 
 2. **Navigate to the project directory:**
-	```sh
-	cd 42-Philosophers
-	```
+```sh
+cd 42-Philosophers
+```
 
 3. **Compile the project:**
-	```sh
-   make
-	```
+```sh
+make
+```
 
 4. **Run the program with the required arguments:**
 ```sh
